@@ -47,6 +47,16 @@ html{
 body{
     font-family: Montserrat;
 }
+.flower-container{
+    background-image: url("../images/Background.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .container{
     position: relative;
     display: flex ;
